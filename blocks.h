@@ -8,7 +8,7 @@ static const Block blocks[] = {
 	{"", "~/my/scripts/dwm-dunst.sh", 10, 0},
 	{"", "~/my/scripts/dwm-licht.sh",10, 0},
 	{"", "~/my/scripts/bb/dwm_disk_space.clj", 30, 0},
-	{"", "~/my/scripts/bb/i3vpn.clj", 10, 0},
+	{"", "~/my/scripts/bb/i3vpn.clj dwm", 10, 0},
 	{"", "~/my/scripts/dwm-date.sh", 1,	0},
 };
 
