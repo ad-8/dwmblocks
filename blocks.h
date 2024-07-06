@@ -3,7 +3,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	// {"Mem:", "free -h | awk '/^Mem/ { print $3\"/\"$2 }' | sed s/i//g", 30,	0},
 
-	{"", "~/my/scripts/bb/i3weather.clj dwm", 300, 0},
+	{"", "~/my/scripts/bb/weather.clj dwm", 300, 0},
 	{"", "~/my/scripts/dwm-volume.sh", 10, 0},
 	{"", "~/my/scripts/dwm-dunst.sh", 10, 0},
 	{"", "~/my/scripts/dwm-licht.sh",10, 0},
